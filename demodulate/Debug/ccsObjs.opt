@@ -1,0 +1,1 @@
+"./ISRs_talkthrough.obj" "./LCDK_Support_DSP.obj" "./main_talkthrough.obj" "./vectors_EDMA.obj" "./modem/modem.obj" "../link6748e.cmd" -llibc.a 
